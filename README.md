@@ -12,8 +12,3 @@
 <img width="1440" alt="10" src="https://user-images.githubusercontent.com/77115883/144415573-3896dd3b-f766-43dd-8c1d-9b6212bcffd7.png">
 <img width="1440" alt="11" src="https://user-images.githubusercontent.com/77115883/144415575-154fdf8c-b20a-4a4c-91c1-dafd49140329.png">
 <img width="1440" alt="12" src="https://user-images.githubusercontent.com/77115883/144415579-ad1bc4af-c743-4ab1-8ddf-452bbd68e08b.png">
-![13](https://user-images.githubusercontent.com/77115883/144415580-04598d98-2cab-400d-a67b-3878bf0cf114.png)
-![14](https://user-images.githubusercontent.com/77115883/144415584-e738ed2a-498e-4e57-ba1a-ee99b68c0684.png)
-
-
-
